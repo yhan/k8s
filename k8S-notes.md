@@ -1,4 +1,5 @@
 
+   elk:
    https://youtu.be/ykuw1piMGa4?t=289
    
    
@@ -6,7 +7,7 @@
    https://xyzcoder.github.io/2020/07/22/how-to-deploy-an-elastic-search-cluster-consisting-of-multiple-hosts-using-es-docker-image.html
    
    
-   
+   my wifi driver:
    killer wifi 6 ax500-dbs
    
    
